@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fukuoka-coworking-map/static/css/main.6790771c.chunk.css",
-    "main.js": "/fukuoka-coworking-map/static/js/main.296fbac8.chunk.js",
-    "main.js.map": "/fukuoka-coworking-map/static/js/main.296fbac8.chunk.js.map",
+    "main.js": "/fukuoka-coworking-map/static/js/main.af6e0eae.chunk.js",
+    "main.js.map": "/fukuoka-coworking-map/static/js/main.af6e0eae.chunk.js.map",
     "runtime-main.js": "/fukuoka-coworking-map/static/js/runtime-main.ab6c5a61.js",
     "runtime-main.js.map": "/fukuoka-coworking-map/static/js/runtime-main.ab6c5a61.js.map",
     "static/js/2.d6ac72cc.chunk.js": "/fukuoka-coworking-map/static/js/2.d6ac72cc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ab6c5a61.js",
     "static/js/2.d6ac72cc.chunk.js",
     "static/css/main.6790771c.chunk.css",
-    "static/js/main.296fbac8.chunk.js"
+    "static/js/main.af6e0eae.chunk.js"
   ]
 }
