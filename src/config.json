@@ -2,7 +2,7 @@
   "title": "福岡コワーキングマップ",
   "description": "福岡市内にあるコワーキングスペースを探せる便利なアプリです。",
   "form_url": "",
-  "logo_image_url": "https://yukisakiyama2408.github.io/fukuoka-coworking-map/fukuoka-coworking-map-logo.svg",
+  "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
   "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
   "primary_color": "#d2691e"
 }
