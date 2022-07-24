@@ -1,54 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:J83",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト"
-    ],
-    [
-      "",
-      "コワーキング",
-      "https://yukisakiyama2408.github.io/fukuoka-coworking-map/fgn-logo-side.jpg",
-      "33.589005",
-      "130.39493",
-      "Fukuoka Growth Next",
-      "福岡市にある官民共働型のスタートアップ支援施設です。",
-      "",
-      "fgn_fukuoka",
-      "https://growth-next.com/"
-    ],
-    [
-      "",
-      "コワーキング",
-      "https://yukisakiyama2408.github.io/fukuoka-coworking-map/the-company-logo .jpg",
-      "33.590953",
-      "130.398041",
-      "The Company 福岡PARCO店",
-      " 日本最大級のコワーキング＆ワークスペース。",
-      "the_company_jp",
-      "",
-      "https://thecompany.jp/multi-location/parco/"
-    ],
-    [
-      "",
-      "コワーキング",
-      "https://yukisakiyama2408.github.io/fukuoka-coworking-map/the-company-logo .jpg",
-      "33.591152",
-      "130.410986",
-      "The Company キャナルシティ博多前店",
-      " 日本最大級のコワーキング＆ワークスペース。",
-      "the_company_jp",
-      "",
-      "https://thecompany.jp/multi-location/hakata/"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
